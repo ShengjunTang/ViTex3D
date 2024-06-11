@@ -14,7 +14,7 @@ We utilize a 3D semantic scene graph dataset derived from the 3RScan dataset, en
 
 Results of the 3RScan Datasets
 <p align="center">
-  <img src="compare.png" width="1000" height="981">
+  <img src="compare.png" width="900" height="883">
 </p>
 
 ## License
