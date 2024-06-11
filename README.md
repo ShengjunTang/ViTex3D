@@ -1,6 +1,6 @@
 # ViTex3D: Integrating Visual and Textual Features for Robust Semantic 3D Indoor Scene Graph Predictions from Point Clouds
 
-ViTex3D: Integrating Visual and Textual Features for Robust Semantic 3D Indoor Scene Graph Predictions from Point Clouds), Submitted to ISPRS Journal of Photogrammetry and Remote Sensing,2024
+ViTex3D: Integrating Visual and Textual Features for Robust Semantic 3D Indoor Scene Graph Predictions from Point Clouds), Submitted to ISPRS Journal of Photogrammetry and Remote Sensing, 2024 (The source code will be released later)
 
 <p align="center">
   <img src="overview.png" width="1000" height="404">
